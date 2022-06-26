@@ -1,0 +1,19 @@
+#Fri Jun 24 14:39:37 VLAT 2022
+sunPathRotation=0.0f
+Clouds=0
+Brightness=1.5
+defskybox=true
+MB_strength=0.020
+Lens_Flares_Strength=16.0
+waterCB=1.6
+SSDO=true
+watertex=true
+Moonshading=false
+Godrays_Density=2.3
+customStars=false
+Volumetric_Lighting=true
+Lens_Flares=true
+Bloom=true
+waterA=1.5
+WaterParallax=true
+Godrays=false

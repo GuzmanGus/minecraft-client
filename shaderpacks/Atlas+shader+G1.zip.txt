@@ -1,0 +1,10 @@
+#Fri Jun 24 13:28:09 VLAT 2022
+FILM_FILTER=true
+sunPathRotation=0.0
+shadowMapResolution=4096
+BETTER_BLOOM=true
+SSRTracTimes=32
+SSAO_SAMPLES=32
+SSRBiscardTimes=6
+VOLUME_BLOCK_CLOUDS=false
+FILTER_GAMMA=1.0

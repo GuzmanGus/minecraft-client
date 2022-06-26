@@ -1,0 +1,12 @@
+#Fri Jun 24 13:09:03 VLAT 2022
+fogFalloff=3.0
+fogStart=0.0
+sunPathRotation=0.0
+refractionEnabled=false
+doColorgrading=true
+waterNormalOctaves=2
+motionblurToggle=false
+bloomIntensity=2.0
+saturationInt=1.10
+filmGrainStrength=2.0
+camSensorWidth=60
